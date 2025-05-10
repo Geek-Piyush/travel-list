@@ -32,7 +32,7 @@ A simple and interactive packing list app built using **React**. Easily add, man
 git clone https://github.com/yourusername/far-away-app.git
 
 # Navigate into the project directory
-cd far-away-app
+cd travel-list
 
 # Install dependencies
 npm install
