@@ -14,7 +14,7 @@ A simple and interactive packing list app built using **React**. Easily add, man
 ## 🛠️ Tech Used
 
 - React (via Create React App)
-- JSX + Functional Components
+- JSX
 
 ## ⚙️ Methods Used
 
